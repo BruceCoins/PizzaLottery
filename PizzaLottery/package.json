@@ -1,5 +1,5 @@
 {
-    "name": "PizzaLottery",
+    "name": "pizza-lottery",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -42,4 +42,5 @@
     "author": "",
     "license": "ISC"
 }
+
 
