@@ -1,4 +1,5 @@
-前端项目目录结构：
+前端项目目录结构：  
+```
 PizzaLottey/  
 ├── public/  
 │   ├── index.html  
@@ -27,3 +28,4 @@ PizzaLottey/
 ├── package.json              # 依赖配置 
 ├── package-lock.json         # 依赖锁定  
 └── README.md                 # 项目说明  
+```
