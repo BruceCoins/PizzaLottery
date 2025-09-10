@@ -21,5 +21,8 @@ prize-contract-frontend/
 │   ├── App.js              # 主应用组件  
 │   ├── index.js            # 入口文件  
 │   └── App.css             # 全局样式  
-├── package.json            # 依赖配置  
+├── .env                    # 环境变量    
+├── .gitignore              # Git忽略文件   
+├── package.json            # 依赖配置 
+├── package-lock.json       # 依赖锁定  
 └── README.md               # 项目说明  
