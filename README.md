@@ -6,6 +6,8 @@ Personal project, continuous update and upgrade
 
 本合约实现了一个简单的链上抽奖游戏核心逻辑，用户通过支付特定金额并输入 4 位数字进行投注，合约会生成随机数并根据匹配规则判定用户是否中奖及中奖等级，中奖者可获得奖池中的相应奖金。
 
+⚠️ 合约还有很多地方可以进一步优化...
+
 ## 二、PizzaLottery  
 ### 1、项目前端界面：  
 <img src = "https://github.com/BruceCoins/PizzaLottery/blob/main/images/PizzaLottery.png" width="70%">  
