@@ -1,3 +1,5 @@
+## 基于区块链的彩票项目
+
 个人项目，仅供学习研究  
 Personal project, continuous update and upgrade    
 
