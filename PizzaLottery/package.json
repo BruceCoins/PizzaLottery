@@ -1,5 +1,5 @@
 {
-    "name": "sepolia-prize-frontend",
+    "name": "PizzaLottery",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -36,9 +36,10 @@
             "last 1 safari version"
         ]
     },
-    "description": "prize-contract-frontend/  \r ├── public/  \r │   ├── index.html  \r │   └── favicon.ico  \r ├── src/  \r │   ├── constants/          # 配置文件目录  \r │   │   ├── networkConfig.js # 网络配置（Sepolia测试网）  \r │   │   ├── contractABI.js   # 合约ABI  \r │   │   └── contractConfig.js # 合约地址配置  \r │   ├── hooks/              # 自定义钩子  \r │   │   ├── useWallet.js     # 钱包连接逻辑  \r │   │   └── useContract.js   # 合约交互逻辑  \r │   ├── components/         # 组件目录  \r │   │   ├── WalletConnect.js # 钱包连接组件  \r │   │   ├── PrizePool.js     # 奖池信息组件  \r │   │   ├── BetForm.js       # 投注表单组件  \r │   │   └── HistoryList.js   # 投注历史组件  \r │   ├── utils/              # 工具函数  \r │   │   ├── format.js        # 格式化工具（地址、金额）  \r │   │   └── eventListener.js # 合约事件监听  \r │   ├── App.js              # 主应用组件  \r │   ├── index.js            # 入口文件  \r │   └── App.css             # 全局样式  \r ├── package.json            # 依赖配置  \r └── README.md               # 项目说明",
+    "description": "pizza-lottery/  \r ├── public/  \r │   ├── index.html  \r │   └── favicon.ico  \r ├── src/  \r │   ├── constants/          # 配置文件目录  \r │   │   ├── networkConfig.js # 网络配置（Sepolia测试网）  \r │   │   ├── contractABI.js   # 合约ABI  \r │   │   └── contractConfig.js # 合约地址配置  \r │   ├── hooks/              # 自定义钩子  \r │   │   ├── useWallet.js     # 钱包连接逻辑  \r │   │   └── useContract.js   # 合约交互逻辑  \r │   ├── components/         # 组件目录  \r │   │   ├── WalletConnect.js # 钱包连接组件  \r │   │   ├── PrizePool.js     # 奖池信息组件  \r │   │   ├── BetForm.js       # 投注表单组件  \r │   │   └── HistoryList.js   # 投注历史组件  \r │   ├── utils/              # 工具函数  \r │   │   ├── format.js        # 格式化工具（地址、金额）  \r │   │   └── eventListener.js # 合约事件监听  \r │   ├── App.js              # 主应用组件  \r │   ├── index.js            # 入口文件  \r │   └── App.css             # 全局样式  \r ├── package.json            # 依赖配置  \r └── README.md               # 项目说明",
     "main": "index.js",
     "keywords": [],
     "author": "",
     "license": "ISC"
 }
+
